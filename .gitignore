@@ -1,0 +1,9 @@
+# API Keys
+.env
+
+# Python Environment
+venv/
+__pycache__/
+
+# MacOS system files
+.DS_Store
